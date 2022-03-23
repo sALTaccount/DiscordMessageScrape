@@ -65,6 +65,7 @@ Set it to `none` to download the entire channel
 There are currently 2 save formats: `json` and `conversation`
 ### JSON
 The JSON is structured as a list of lists. Each list in the main list has two strings structured as follows:
+
 `[author, message]`
 ### Conversation
 Conversation format outputs as a txt in the following format:
